@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "_UITests.swift",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
